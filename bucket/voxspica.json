@@ -15,9 +15,6 @@
     },
     "autoupdate": {
         "url": "https://github.com/alex37529/voxspica/releases/download/v$version/VoxSpica-$version-win64.zip",
-        "hash": {
-            "url": "https://github.com/alex37529/voxspica/releases/download/v$version/SHA256SUMS.txt",
-            "regex": "^[a-fA-F0-9]{64}(?=\\s+VoxSpica-.*-win64\\.zip)"
-        }
+        "hash": "https://github.com/alex37529/voxspica/releases/download/v$version/VoxSpica-$version-win64.zip.sha256"
     }
 }
