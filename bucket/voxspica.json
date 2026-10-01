@@ -11,8 +11,8 @@
     "hash": "442868E49B8EAC8BECDA6C2A41D6020737F366106FD99F7F1E61613D30FEE4B4",
     "bin": "VoxSpica.exe",
     "checkver": {
-        "url": "https://github.com/alex37529/voxspica/releases/latest",
-        "regex": "/releases/tag/v(?<version>[\\d.]+)"
+        "url": "https://github.com/alex37529/voxspica/releases",
+        "regex": "releases/tag/v(?<version>[\\d.]+)"
     },
     "autoupdate": {
         "url": "https://github.com/alex37529/voxspica/releases/download/v$version/VoxSpica-$version-win64.zip",
