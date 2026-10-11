@@ -1,5 +1,5 @@
 {
-    "version": "0.1.8",
+    "version": "0.1.9",
     "description": "Offline speech-to-text for Windows: 33 recognition languages, no cloud, no account, no telemetry",
     "homepage": "https://voxspica.4crytobot.xyz/",
     "license": {
@@ -7,8 +7,8 @@
         "url": "https://github.com/alex37529/voxspica/blob/main/LICENSE"
     },
     "notes": "The recognition model is not in the archive: on the first launch the program asks for a language and downloads one, about 50 MB for a small model and up to 1.8 GB for a large one. Per-language installers that already include a model are published at https://voxspica.4crytobot.xyz/ . The program is not code-signed, so Windows may warn about an unknown publisher.",
-    "url": "https://github.com/alex37529/voxspica/releases/download/v0.1.8/VoxSpica-0.1.8-win64.zip",
-    "hash": "630E13F175ACE9CABDDD381449316475148310098A28D8E0E789098795D0EE02",
+    "url": "https://github.com/alex37529/voxspica/releases/download/v0.1.9/VoxSpica-0.1.9-win64.zip",
+    "hash": "D8F14BDAC04C8223C62358F15BF168469CF742DBE2CC93E326621938CB73BD97",
     "bin": "VoxSpica.exe",
     "checkver": {
         "github": "https://github.com/alex37529/voxspica"
