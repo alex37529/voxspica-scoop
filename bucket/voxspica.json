@@ -1,7 +1,7 @@
 {
     "version": "0.1.9",
     "description": "Offline speech-to-text for Windows: 33 recognition languages, no cloud, no account, no telemetry",
-    "homepage": "https://voxspica.4crytobot.xyz/",
+    "homepage": "https://voxspica.com/",
     "license": {
         "identifier": "Proprietary",
         "url": "https://github.com/alex37529/voxspica/blob/main/LICENSE"

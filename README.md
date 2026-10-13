@@ -18,7 +18,7 @@ scoop install voxspica
 - **Модель распознавания не входит в архив.** При первом запуске программа
   спросит язык и скачает модель: около 50 МБ для «малой», до 1.8 ГБ для
   «большой». Языковые установщики с моделью внутри лежат на
-  <https://voxspica.4crytobot.xyz/>.
+  <https://voxspica.com/>.
 - **Программа не подписана**, поэтому Windows может предупредить о неизвестном
   издателе.
 - **Только Windows x64.**
@@ -52,7 +52,7 @@ git commit -am "VoxSpica 0.1.8 as a Scoop manifest" && git push
 
 ## Остальное
 
-- Сайт: <https://voxspica.4crytobot.xyz/>
+- Сайт: <https://voxspica.com/>
 - Релизы: <https://github.com/alex37529/voxspica/releases>
 - Лицензия: <https://github.com/alex37529/voxspica/blob/main/LICENSE> —
   бесплатное использование, перераспределение и декомпиляция запрещены.
